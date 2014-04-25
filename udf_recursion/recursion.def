@@ -1,0 +1,25 @@
+LIBRARY		udf_recursion
+VERSION		1.0
+EXPORTS
+start_rec_init
+start_rec_deinit
+start_rec_add
+start_rec_clear
+start_rec
+end_rec_init
+end_rec_deinit
+end_rec_add
+end_rec_clear
+end_rec
+get_level_init
+get_level_deinit
+get_level
+get_root_init
+get_root_deinit
+get_root
+get_position_init
+get_position_deinit
+get_position
+is_branch_init
+is_branch_deinit
+is_branch
